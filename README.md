@@ -51,7 +51,7 @@ Creating interactive maps is supported by specifically developed tools. For this
 
 **Languages:**
 -	JavaScript, 
--	[HTML](index.html) and [CSS](static/css/style.css) 
+-	HTML and CSS
 
 **Libraries:**
 - D3, Leaflet
